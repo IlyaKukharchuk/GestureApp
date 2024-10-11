@@ -1,23 +1,35 @@
-# AllGestureRecognitionApp
+# MultiTouchGestureAnalyzer
 
-AllGestureRecognitionApp is an Android application that demonstrates the recognition of all supported gestures. The app displays information about the detected gesture in a text field.
+MultiTouchGestureAnalyzer is an advanced Android application designed to showcase the detection and analysis of various multi-touch gestures. The app provides real-time feedback on detected gestures, making it a valuable tool for developers and enthusiasts interested in touch gesture recognition.
 
-## Features
-- Recognizes all supported touch gestures.
-- Displays information about the recognized gestures.
+## Key Features
+- **Comprehensive Gesture Detection**: Recognizes a wide range of multi-touch gestures, including taps, swipes, pinches, and rotations.
+- **Real-Time Feedback**: Displays detailed information about detected gestures in a user-friendly interface.
+- **Customizable Settings**: Allows users to adjust sensitivity and other parameters to suit their needs.
 
-## Requirements
-- Android 5.0 (Lollipop) or higher.
-- Touch input support.
+## System Requirements
+- **Operating System**: Android 5.0 (Lollipop) or later.
+- **Hardware**: Device with multi-touch support.
 
-## Installation
-1. Clone this repository:
+## Installation Guide
+1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/alexsandro007/GestureRecognitionApps.git
+   git clone https://github.com/alexsandro007/MultiTouchGestureAnalyzer.git
    ```
-2. Open the AllGestureRecognitionApp folder in Android Studio.
-3. Build and run the project on an Android emulator or a physical device.
+2. **Open in Android Studio**:
+   - Launch Android Studio.
+   - Select `Open an existing Android Studio project`.
+   - Navigate to the cloned repository and select the `MultiTouchGestureAnalyzer` folder.
+3. **Build and Run**:
+   - Connect an Android device or start an emulator.
+   - Click on the `Run` button in Android Studio to build and deploy the app.
 
-## Technologies Used
-- **Java**: Core programming language for the application.
-- **Android Studio**: Development environment used to build the app.
+## Technologies and Tools
+- **Programming Language**: Java
+- **Development Environment**: Android Studio
+- **UI/UX Design**: XML layouts for a responsive and intuitive user interface
+
+## Usage
+- **Launch the App**: Open the app on your Android device.
+- **Interact with the Screen**: Perform various multi-touch gestures on the screen.
+- **View Gesture Information**: The app will display details about the detected gestures in real-time.
